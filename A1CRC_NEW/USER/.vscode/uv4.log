@@ -1,0 +1,5 @@
+Load "..\\OBJ\\Template.axf" 
+_____^
+*** error 56: cannot open file
+Error: Flash Download failed  -  Could not load file '..\OBJ\Template.axf'
+Flash Load finished at 10:29:01
